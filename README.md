@@ -1,9 +1,9 @@
-<!-- Please update value in the {}  -->
 
-<h1 align="center">Coin-Toss-Jeevan| devChallenges</h1>
+
+<h1 align="center">Flip The Coin | DevChallenges</h1>
 
 <div align="center">
-   Solution for a challenge <a href="https://flip-the-coin-dev-challenges.vercel.app/" target="_blank">Flip The Coin</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
+   Solution for a challenge <a href="https://devchallenges.io/challenge/flip-the-coin" target="_blank">Flip The Coin</a> from <a href="http://devchallenges.io" target="_blank">devChallenges.io</a>.
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="https://flip-the-coin-dev-challenges.vercel.app/">
+    <a href="https://github.com/therealgone/Flip-The-Coin-Dev-challenges">
       Solution
     </a>
     <span> | </span>
@@ -28,52 +28,57 @@
 
 - [Overview](#overview)
   - [What I learned](#what-i-learned)
-  - [Installations](#Installation-&-Usages)
+  - [Useful resources](#useful-resources)
 - [Built with](#built-with)
 - [Features](#features)
+- [Contact](#contact)
+- [Acknowledgements](#acknowledgements)
+
+<!-- OVERVIEW -->
 
 ## Overview
 
-![Flip The Coin Screenshot](resources\solution.png)
+![screenshot](resources/solution.png)
 
-
-A simple coin flip web app built using HTML, CSS, and JavaScript.
+Flip The Coin is a fun and interactive coin-flipping game built using **HTML, CSS, and JavaScript**. This project helps practice web development skills by combining structured HTML, styled animations, and JavaScript interactivity.
 
 ### What I learned
 
-How to use CSS animations to simulate a coin flip effect.
+- Creating smooth **CSS animations** for a realistic coin flip effect.
+- Handling **DOM manipulation** efficiently with JavaScript.
+- Implementing **event listeners** for user interactions.
+- Using **Git & GitHub** for version control and collaboration.
+- Deploying static sites on **Vercel**.
 
-Managing DOM manipulation with JavaScript.
+### Useful resources
 
-Using event listeners for button clicks.
-
-Implementing Git & GitHub for version control.
-
-Deploying a static website on Vercel.
-
-### Installation & Usage
-
-Clone the repository:
-
-git clone https://github.com/therealgone/Flip-The-Coin-Dev-challenges.git
-
-Navigate to the project folder:
-
-cd Flip-The-Coin-Dev-challenges
-
-Open index.html in your browser.
+- 📖 [CSS Animations Guide](https://developer.mozilla.org/en-US/docs/Web/CSS/CSS_Animations/Using_CSS_animations)
+- 📖 [JavaScript DOM Manipulation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+- 📖 [Vercel Deployment Docs](https://vercel.com/docs)
 
 ### Built with
 
-Semantic HTML5 markup
+- **Semantic HTML5** for structured content.
+- **CSS Custom Properties** for maintainable styling.
+- **Flexbox & CSS Animations** for responsive design.
+- **Vanilla JavaScript** for logic and interactions.
 
-CSS Custom Properties
+## Features
 
-Flexbox & CSS Animations
+✅ Click the button or coin to flip it.  
+✅ Animated spinning effect with smooth transitions.  
+✅ Displays the result (Heads/Tails) dynamically.  
+✅ Responsive design that works on all screen sizes.  
 
-Vanilla JavaScript
+## Acknowledgements
+
+This project was created as a submission to a [DevChallenges](https://devchallenges.io/challenges-dashboard) challenge.
 
 ## Author
 
-- Website [https://flip-the-coin-dev-challenges.vercel.app/](https://flip-the-coin-dev-challenges.vercel.app/})
-- GitHub [@therealgone](https://github.com/therealgone})
+- Website: [Flip The Coin](https://flip-the-coin-dev-challenges.vercel.app/)
+- GitHub: [@therealgone](https://github.com/therealgone)
+
+---
+
+💡 **Feel free to contribute! Open issues or pull requests to improve this project.** 🚀
