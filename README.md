@@ -34,7 +34,7 @@
 
 ## Overview
 
-!![Flip The Coin Screenshot](resources\solution.png)
+![Flip The Coin Screenshot](resources\solution.png)
 
 
 A simple coin flip web app built using HTML, CSS, and JavaScript.
